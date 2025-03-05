@@ -1,0 +1,12 @@
+prettytable
+easydict
+numpy==1.23.5
+PyYAML
+ftfy
+regex
+tensorboard
+tqdm
+pykan
+sympy
+scikit-learn
+matplotlib
